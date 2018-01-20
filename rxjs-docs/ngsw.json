@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "appData": {
+    "name": "RxJS Docs",
+    "description": "RxJS Docs"
+  },
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/0.6f25e46875fee5532db6.chunk.js",
+        "/1.3acd507507a7fb8489a9.chunk.js",
+        "/2.b8031287cdf439d7a065.chunk.js",
+        "/3.84cfa01f8342c33ebc2d.chunk.js",
+        "/4.e8a54ca513c43f871ac4.chunk.js",
+        "/inline.60d84c3c34dfb0b96bc6.bundle.js",
+        "/main.3e3a1e21619923ddd7f0.bundle.js",
+        "/polyfills.c55e411ea32138135866.bundle.js",
+        "/styles.57b0ea3bc158877c6ad5.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/companies/google.png",
+        "/assets/companies/microsoft.png",
+        "/assets/fonts/icomoon.woff",
+        "/assets/img/GitHub-Mark-Light-64px.png",
+        "/assets/img/Rx_Logo-128-128.png",
+        "/assets/img/Rx_Logo-144-144.png",
+        "/assets/img/Rx_Logo-16-16.png",
+        "/assets/img/Rx_Logo-192-192.png",
+        "/assets/img/Rx_Logo-48-48.png",
+        "/assets/img/Rx_Logo-512-512.png",
+        "/assets/img/Rx_Logo-72-72.png",
+        "/assets/img/Rx_Logo-96-96.png",
+        "/assets/rx-marbles/custom-elements.js",
+        "/assets/rx-marbles/element.js",
+        "/assets/rx-marbles/native-shim.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "fonts",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
+    },
+    {
+      "name": "misc",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": [
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/web-animations\\/2\\.2\\.5\\/web-animations\\.min\\.js",
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/highlight\\.js\\/9\\.5\\.0\\/styles\\/monokai_sublime\\.min\\.css",
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/highlight\\.js\\/9\\.5\\.0\\/highlight\\.min\\.js",
+        "https:\\/\\/cdnjs\\.cloudflare\\.com\\/ajax\\/libs\\/highlight\\.js\\/9\\.5\\.0\\/languages\\/typescript\\.min\\.js",
+        "http:\\/\\/reactivex\\.io\\/rxjs\\/img\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/0.6f25e46875fee5532db6.chunk.js": "fe039e443f50d38a972a55984db23a66f4b228b7",
+    "/assets/companies/google.png": "915ef4fbdba3c008d7d8038b8376abf8f7c1d075",
+    "/1.3acd507507a7fb8489a9.chunk.js": "46ab5c9a835bd72699937aac473ba9d649a0a14b",
+    "/assets/companies/microsoft.png": "24a79e793810129d22c50a7497b0ffac601a4a9c",
+    "/2.b8031287cdf439d7a065.chunk.js": "9d2068612f1b25b4ddb3c0e61d4870961bf2246f",
+    "/assets/fonts/icomoon.woff": "35411c4ce16b0c37d8d9d376d96b310de0190357",
+    "/3.84cfa01f8342c33ebc2d.chunk.js": "2e5d405e8af05698d0904670620cb22528b8ade5",
+    "/assets/img/GitHub-Mark-Light-64px.png": "a897bfa37a683b8d622fdf93f5535654350d83a1",
+    "/4.e8a54ca513c43f871ac4.chunk.js": "85ab63fe6760ca9de008ff4de727ec100f449ae7",
+    "/assets/img/Rx_Logo-128-128.png": "63c869a84ffc9b62d28104e249eba13c55071632",
+    "/inline.60d84c3c34dfb0b96bc6.bundle.js": "57353814aa5ea6bad015058ad29d143420143ff5",
+    "/assets/img/Rx_Logo-144-144.png": "52610ec96944a942c8b1de82ef8180ce40a5c26a",
+    "/main.3e3a1e21619923ddd7f0.bundle.js": "c5b6c32551c438c80d00916239be580b284a3c7d",
+    "/assets/img/Rx_Logo-16-16.png": "20b75f088099aef35b8340a2b30d5aaa80faff33",
+    "/polyfills.c55e411ea32138135866.bundle.js": "6f64e1bcce62a6bd69d9d284792d0c86ecf21bfd",
+    "/assets/img/Rx_Logo-192-192.png": "308c94c850d4bf8cce7f84b1de24f4212eef5b03",
+    "/styles.57b0ea3bc158877c6ad5.bundle.css": "b2dd68e23a80d0eec069fa72e7abf4867b74bc07",
+    "/assets/img/Rx_Logo-48-48.png": "43334eaf852d952e435c05560a21e8a0a8cc4128",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/assets/img/Rx_Logo-512-512.png": "b7576fb445620d6a9f6c838eab952dfa966503ca",
+    "/index.html": "a380ae1f686094c5c5fb925a5843dfab48de7af0",
+    "/assets/img/Rx_Logo-72-72.png": "fc8a20ed79832ddfb3b23176df8ee66d00f75d93",
+    "/assets/img/Rx_Logo-96-96.png": "8d21744f7cbfffa4f36265b723bcc6b50b66a6c4",
+    "/assets/rx-marbles/custom-elements.js": "93d410d3394c1f67e064163f603ded7d3c926708",
+    "/assets/rx-marbles/element.js": "33183fb629b4f48a1fb545ec3da49a3a1d6c3bb0",
+    "/assets/rx-marbles/native-shim.js": "30980dca72078d5a11e998f38c124d250bc07963"
+  }
+}
